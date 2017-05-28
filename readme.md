@@ -4,7 +4,6 @@
 
 A Python script that converts between the above coordinate systems. Copying to clipboard and opening the WGS84 point in Google maps
 with a single click !!
-and .
 
 ## Type
 
@@ -17,7 +16,7 @@ Python script
 * Pyperclip ```sudo apt-get install python-pyperclip```
 
 ## Usage
-Run the script ```python WGS84_GGRS87_converter.py```
+Run the script : ```python WGS84_GGRS87_converter.py```
 
 
 ## Screenshots
